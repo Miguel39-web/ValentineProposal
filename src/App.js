@@ -21,16 +21,16 @@ function App() {
       <h1>⚠️ EMERGENCY ANNOUNCEMENT ⚠️</h1>
 
       <h2>
-        Miss Githinji(babes),
+        Miss Githinji(babes)😚,
         <br />
         after extreme overthinking,
         <br />
-        emotional suffering,
+        emotional suffering🥹,
         <br />
         and unnecessary imagination…
       </h2>
 
-      <h1>Will you be my Valentine? 💘</h1>
+      <h1>Will you be my Valentine🌺? 💘</h1>
 
       <div style={{ marginTop: "40px" }}>
         <button
