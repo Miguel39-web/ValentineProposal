@@ -37,7 +37,7 @@ function App() {
           style={{ fontSize: "20px", padding: "12px 25px" }}
           onClick={() =>
             alert(
-              "YOU SAID YES 😭💖\nMiss Githinji(babes), I am officially your Valentine."
+              "YOU SAID YES 😭💖\nbabe, I am officially your Valentine."
             )
           }
         >
