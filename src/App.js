@@ -21,7 +21,7 @@ function App() {
       <h1>⚠️ EMERGENCY ANNOUNCEMENT ⚠️</h1>
 
       <h2>
-        Miss Githinji(babes)😚,
+        pretty lady,Irene Mumbi😚,
         <br />
         after extreme overthinking,
         <br />
@@ -30,14 +30,14 @@ function App() {
         and unnecessary imagination…
       </h2>
 
-      <h1>Will you be my Valentine🌺? 💘</h1>
+      <h1>Will you be my Valentine🌺? woiyee🥹 💘</h1>
 
       <div style={{ marginTop: "40px" }}>
         <button
           style={{ fontSize: "20px", padding: "12px 25px" }}
           onClick={() =>
             alert(
-              "YOU SAID YES 😭💖\nbabe, I am officially your Valentine."
+              "YOU SAID YES 😭💖\nmy dinosaur 😚♥️, I am officially your Valentine."
             )
           }
         >
