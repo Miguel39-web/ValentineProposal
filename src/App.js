@@ -21,7 +21,7 @@ function App() {
       <h1>⚠️ EMERGENCY ANNOUNCEMENT ⚠️</h1>
 
       <h2>
-        pretty lady,Irene Mumbi😚,
+        pretty lady,Miss Githinji😚,
         <br />
         after extreme overthinking,
         <br />
@@ -37,7 +37,7 @@ function App() {
           style={{ fontSize: "20px", padding: "12px 25px" }}
           onClick={() =>
             alert(
-              "YOU SAID YES 😭💖\nmy dinosaur 😚♥️, I am officially your Valentine."
+              "YOU SAID YES 😭💖\nmy baaaby😚♥️, I am officially your Valentine."
             )
           }
         >
